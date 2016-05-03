@@ -1,0 +1,28 @@
+{
+  "name": "extjs-old",
+  "version": "1.0.0",
+  "description": "This is a demo project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node tools/dev",
+    "build": "node tools/build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "^1.15.0",
+    "copy-webpack-plugin": "^2.1.3",
+    "css-loader": "^0.23.1",
+    "del": "^2.2.0",
+    "express": "^4.13.4",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "file-loader": "^0.8.5",
+    "globals-loader": "0.0.3",
+    "html-webpack-plugin": "^2.16.0",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.0",
+    "webpack-dev-middleware": "^1.6.1",
+    "webpack-hot-middleware": "^2.10.0"
+  }
+}

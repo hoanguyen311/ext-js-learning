@@ -1,0 +1,9 @@
+{
+    "rows": [
+        { "id": 0, "genre_name": "New Genre" },
+        { "id": 1, "genre_name": "Comedy" },
+        { "id": 2, "genre_name": "Dramma" },
+        { "id": 3, "genre_name": "Action" },
+        { "id": 4, "genre_name": "War" }
+    ]
+}
